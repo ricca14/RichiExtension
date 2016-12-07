@@ -13,7 +13,7 @@
 		1958883B1DF7FF75002A6FF7 /* ExtensionApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 195888391DF7FF75002A6FF7 /* ExtensionApp.xcdatamodeld */; };
 		1958883D1DF7FF75002A6FF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1958883C1DF7FF75002A6FF7 /* Assets.xcassets */; };
 		195888401DF7FF75002A6FF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1958883E1DF7FF75002A6FF7 /* LaunchScreen.storyboard */; };
-		19CAEC2E1DF810BE001594BB /* RichiSwiftExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CAEC2D1DF810BE001594BB /* RichiSwiftExtensions.swift */; };
+		19CAEC301DF81179001594BB /* RichiStringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CAEC2F1DF81179001594BB /* RichiStringExtension.swift */; };
 		C666110FAB2BA3EAE7F26615 /* Pods_ExtensionApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45DADC9B716BFEF160042F05 /* Pods_ExtensionApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 		1958883C1DF7FF75002A6FF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1958883F1DF7FF75002A6FF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		195888411DF7FF75002A6FF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		19CAEC2D1DF810BE001594BB /* RichiSwiftExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RichiSwiftExtensions.swift; path = RichiExtensions/RichiSwiftExtensions.swift; sourceTree = "<group>"; };
+		19CAEC2F1DF81179001594BB /* RichiStringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RichiStringExtension.swift; sourceTree = "<group>"; };
 		45DADC9B716BFEF160042F05 /* Pods_ExtensionApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExtensionApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DF6F2CE95FE441ED1CB0E62 /* Pods-ExtensionApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExtensionApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ExtensionApp/Pods-ExtensionApp.debug.xcconfig"; sourceTree = "<group>"; };
 		C54109E612C83FCF9BD6D194 /* Pods-ExtensionApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExtensionApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-ExtensionApp/Pods-ExtensionApp.release.xcconfig"; sourceTree = "<group>"; };
@@ -80,7 +80,7 @@
 		19CAEC2A1DF80E28001594BB /* RichiExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				19CAEC2D1DF810BE001594BB /* RichiSwiftExtensions.swift */,
+				19CAEC2F1DF81179001594BB /* RichiStringExtension.swift */,
 			);
 			name = RichiExtensions;
 			sourceTree = "<group>";
@@ -226,10 +226,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19CAEC301DF81179001594BB /* RichiStringExtension.swift in Sources */,
 				1958883B1DF7FF75002A6FF7 /* ExtensionApp.xcdatamodeld in Sources */,
 				195888351DF7FF75002A6FF7 /* ViewController.swift in Sources */,
 				195888331DF7FF75002A6FF7 /* AppDelegate.swift in Sources */,
-				19CAEC2E1DF810BE001594BB /* RichiSwiftExtensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
