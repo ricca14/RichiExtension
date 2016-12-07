@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BE70150EECE7ABF96088F34E187BC8AC436F8A3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE70150EECE7ABF96088F34E187BC8AC436F8A3D" : 9223372036854775807,
+    "F17C808993FDC9FCFD692E30E090B49D365D225D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BECE909A-7754-403A-8313-2A9234C271A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE70150EECE7ABF96088F34E187BC8AC436F8A3D" : "RichiExtension\/",
+    "F17C808993FDC9FCFD692E30E090B49D365D225D" : "RichiExtension\/ExtensionApp\/RichiExtensions\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ExtensionApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ExtensionApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ricca14\/RichiExtension.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE70150EECE7ABF96088F34E187BC8AC436F8A3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ricca14\/RichiExtension.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F17C808993FDC9FCFD692E30E090B49D365D225D"
+    }
+  ]
+}
